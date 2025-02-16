@@ -5,16 +5,17 @@ ______
 # MCAnalysis
 This is an auto moment-curvature analysis tool. Mesh generation is accomplished by gmesh, and  moment-curvature analysis is running in openseespy platform.
 
-Please cite the paper when using or referencing the code：
+The program has been adopted in the following studies. Please cite the paper when using or referencing the code：
 Zhang P, Wang Z, Ge J, Yan X and Liu S. Full-scale experimental study on precast bridge column with grouted sleeve connections and large-diameter reinforcing bars. Engineering Structures 2023; 294: 116747.
 ![image](https://github.com/Penghui0616/MCAnalysis/assets/42617930/3df97159-5c82-43ff-94d7-e4c02ed38f48)
 
+Zhang P, Zhou L, Guo J, Wang Z. Strut‐and‐tie model for column‐to‐drilled shaft connections in reinforced concrete bridge columns subjected to lateral loads. Struct Concr 2024;25:4183–201.
+![image](https://github.com/user-attachments/assets/2266f618-aec3-4360-8ec1-88e25c85828f)
 
 ## Tutorials 
 1. download the zip file.
 2. download gmsh.exe ([download gmsh](https://gmsh.info/)) that satifies your operation system,and put gmsh.exe to your unzip file in step 1. 
-3. confirm the openseespy, matplotlib, numpy, pygmesh are instelled.
-
+3. confirm the openseespy, matplotlib, numpy, pygmesh (Version 6.1.0) are instelled.
 
 The followings are some basic examples, and you can also find them in the download files.
 
