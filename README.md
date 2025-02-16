@@ -7,10 +7,10 @@ This is an auto moment-curvature analysis tool. Mesh generation is accomplished 
 
 The program has been adopted in the following studies. Please cite the paper when using or referencing the code：
 Zhang P, Wang Z, Ge J, Yan X and Liu S. Full-scale experimental study on precast bridge column with grouted sleeve connections and large-diameter reinforcing bars. Engineering Structures 2023; 294: 116747.
-![image](https://github.com/Penghui0616/MCAnalysis/assets/42617930/3df97159-5c82-43ff-94d7-e4c02ed38f48)
+![image](https://github.com/user-attachments/assets/6b8c889e-5a73-42fc-8361-c11c2d3eade2)
 
 Zhang P, Zhou L, Guo J, Wang Z. Strut‐and‐tie model for column‐to‐drilled shaft connections in reinforced concrete bridge columns subjected to lateral loads. Struct Concr 2024;25:4183–201.
-![image](https://github.com/user-attachments/assets/2266f618-aec3-4360-8ec1-88e25c85828f)
+![image](https://github.com/user-attachments/assets/9fb92400-9893-4a5f-a6c8-4c07f242a2e3)
 
 ## Tutorials 
 1. download the zip file.
